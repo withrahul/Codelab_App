@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060027026222",
+    "project_id": "code-lab-final",
+    "storage_bucket": "code-lab-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060027026222:android:876baec8f0c134fea3c8bf",
+        "android_client_info": {
+          "package_name": "com.abc.codelab_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXr5hPf5TcZmQzhFtY27OPHOB-IxvkiBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
